@@ -362,14 +362,14 @@ nav a.active {
 .btn-cta {
     background-size: 200% auto;
     background-color: #292C31; /* fall back style */
-    background-image: linear-gradient(to bottom, #292C31 0%,  #51F5C6 60%, #292C31 100%);
+    background-image: linear-gradient(to bottom, #51F5C6 0%,  #292C31 60%, #51F5C6 100%);
     background-color: #51F5C6; 
     color: white;
 }
 
 .btn-cta:hover {
     background-position: right center; 
-    background-image: linear-gradient(to bottom, #292C31 0%,  #51F5C6 1%, #292C31 100%);
+    background-image: linear-gradient(to bottom, #51F5C6 0%,  #292C31 1%, #51F5C6 100%);
 }
   
 
