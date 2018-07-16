@@ -1,5 +1,5 @@
 # ZoraCabrera-Writing Website
-**Domain:** www.zoracreates.github.io/writing-portfolio
+**Domain:** https://zoracreates.github.io/writing-portfolio/
 
 ## Strategy
 ### Goals:
