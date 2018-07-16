@@ -255,7 +255,7 @@ nav a.active {
     width: 100%;
 }
 .nav-container {
-    padding: 5px 20px;
+    padding-bottom: 5px 20px;
 }
 .top-nav ul {
     float: right;
@@ -443,13 +443,6 @@ form textarea:focus {
     font-size: 1.5em;
 }
 
-.social-media .email {
-    font-size: 1rem;
-}
-
-.social-media .email:hover {
-    text-decoration: underline;
-}
 
 .social-media li {
     display: inline-block;
@@ -516,12 +509,6 @@ footer ul {
     }
     .social-media .social-icon {
         font-size: 14pt;
-    }
-    .social-media .email-i {
-        display: none;
-    }
-    .social-media .email {
-        font-size: 10pt;
     }
 }
 

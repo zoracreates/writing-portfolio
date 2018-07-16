@@ -4,7 +4,7 @@
 ## Strategy
 ### Goals:
 
-ZoraCabrera-Writing.com is a creative writing portfolio website, with the main purpose of showcasing my writing samples for potential agents, publishers, and readers.
+ZoraCabrera-Writing is creative writing portfolio website, with the main purpose of showcasing my writing samples for potential agents, publishers, and readers.
 
 ### Audiences:
 
@@ -33,14 +33,6 @@ Before building the site, I planned out its layout by sketching each page severa
 + There was a call to action button on the home page to encourage users to reach out.
 + The About page contained not just a biography, but also a picture.
 + On the Contact page the links to my social media accounts and email appeared to the right side of the contact form.
-
-## Surface
-
-1. Home/Works: http://www.zoracabrera-writing.com/
-  * “Fireflies” writing sample: http://www.zoracabrera-writing.com/stories/fireflies.html
-  * “Morning Coffee” writing sample: http://www.zoracabrera-writing.com/stories/morning-coffee.html
-2. About: http://www.zoracabrera-writing.com/about/index.html
-3. Contact: http://www.zoracabrera-writing.com/contact/index.html
 
 ## Implementation
 
